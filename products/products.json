@@ -1,31 +1,7 @@
 {
 	"catalog":
 	[
- 	{	"id": 0,
- 		"name": "Комбинезон",
- 		"price": 2000,
- 		"image_link": "./assets/img/10-88-325-3.jpg", 
- 	},
- 	{	"id": 1,
- 		"name": "Куртка",
- 		"price": "1200",
- 		"image_link": "./assets/img/11-150-317-1.jpg.jpg",
- 		},
- 	{	"id": 2,
- 		"name": "Куртка",
- 		"price": 1600,
- 		"image_link": "./assets/img/102-854-143-6605-1.jpg",
- 		},
- 	{	"id": 3,
- 		"name": "Пальто",
- 		"price": 1800,
- 		"image_link": "./assets/img/108-506-143-4035-1.jpg",
- 		},
- 	{	"id": 4,
- 		"name": "Куртка",
- 		"price": 1200,
- 		"image_link": "./assets/img/10-88-325-3.jpg",
- 		},
-]
+ 	
+	]
 }
 
