@@ -8,7 +8,7 @@
 	{
  		"id": 1,
  		"name": "Куртка",
- 		"price": "1200",
+ 		"price": 1200,
  		"image_link": "./assets/img/11-150-317-1.jpg.jpg"
 	},
  	{	"id": 2,
