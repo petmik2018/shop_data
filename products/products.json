@@ -3,13 +3,13 @@
  		"id": 0,
  		"name": "Комбинезон",
  		"price": 2000,
- 		"image_link": "./assets/img/10-88-325-3.jpg.jpg"
+ 		"image_link": "./assets/img/10-88-325-3.jpg"
 	},
 	{
  		"id": 1,
  		"name": "Куртка",
  		"price": 1200,
- 		"image_link": "./assets/img/11-150-317-1.jpg.jpg"
+ 		"image_link": "./assets/img/11-150-317-1.jpg"
 	},
  	{	"id": 2,
  		"name": "Куртка",
@@ -24,6 +24,6 @@
  	{	"id": 4,
  		"name": "Куртка",
  		"price": 1200,
- 		"image_link": "./assets/img/10-88-325-3.jpg"
+ 		"image_link": "./assets/img/12608-JOEL-611-848-1.jpg"
  	}
 ]
