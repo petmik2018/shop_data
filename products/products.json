@@ -3,7 +3,7 @@
  		"id": 0,
  		"name": "Комбинезон",
  		"price": 2000,
- 		"image_link": "https://github.com/petmik2018/shop_data/blob/master/images/10-88-325-3.jpg"
+ 		"image_link": "./assets/img/11-150-317-1.jpg.jpg"
 	},
 	{
  		"id": 1,
