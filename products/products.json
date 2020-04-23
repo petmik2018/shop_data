@@ -1,8 +1,9 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
+ 	"id": 0,
+ 	"name": "Комбинезон",
+ 	"price": 2000,
+ 	"image_link": "./assets/img/10-88-325-3.jpg"
   },
   {
     "id_product": 456,
