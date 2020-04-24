@@ -3,27 +3,27 @@
  		"id": 0,
  		"name": "Комбинезон",
  		"price": 2000,
- 		"image_link": "https://fastpic.co/images/10_88_325_3.jpg"
+ 		"image_link": "https://fastpic.co/images/10_88_325_2.jpg"
 	},
 	{
  		"id": 1,
  		"name": "Куртка",
  		"price": 1200,
- 		"image_link": "./assets/img/11-150-317-1.jpg"
+ 		"image_link": "https://fastpic.co/images/111502_440.jpg"
 	},
  	{	"id": 2,
  		"name": "Куртка",
  		"price": 1600,
- 		"image_link": "./assets/img/102-854-143-6605-1.jpg"
+ 		"image_link": "https://fastpic.co/images/11-87-325-1.jpg"
  	},
  	{	"id": 3,
- 		"name": "Пальто",
- 		"price": 1800,
- 		"image_link": "./assets/img/108-506-143-4035-1.jpg"
+ 		"name": "Кроссовки",
+ 		"price": 1200,
+ 		"image_link": "https://fastpic.co/images/Ekebol_Grey.jpg"
  	},
  	{	"id": 4,
- 		"name": "Куртка",
- 		"price": 1200,
- 		"image_link": "./assets/img/12608-JOEL-611-848-1.jpg"
+ 		"name": "Ботинки",
+ 		"price": 1800,
+ 		"image_link": "https://fastpic.co/images/Haugesund_NavyLime.jpg"
  	}
 ]
