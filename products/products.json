@@ -1,28 +1,28 @@
 [
 	{
  		"id": 0,
- 		"name": "Комбинезон",
+ 		"name": "Комбинезон Red Zeroes",
  		"price": 2000,
  		"image_link": "https://fastpic.co/images/10_88_325_2.jpg"
 	},
 	{
  		"id": 1,
- 		"name": "Куртка",
+ 		"name": "Куртка Red Zeroes",
  		"price": 1200,
  		"image_link": "https://fastpic.co/images/111502_440.jpg"
 	},
  	{	"id": 2,
- 		"name": "Куртка",
+ 		"name": "Куртка Red Zeroes",
  		"price": 1600,
  		"image_link": "https://fastpic.co/images/11-87-325-1.jpg"
  	},
  	{	"id": 3,
- 		"name": "Кроссовки",
+ 		"name": "Кроссовки Leaf",
  		"price": 1200,
  		"image_link": "https://fastpic.co/images/Ekebol_Grey.jpg"
  	},
  	{	"id": 4,
- 		"name": "Ботинки",
+ 		"name": "Ботинки Leaf",
  		"price": 1800,
  		"image_link": "https://fastpic.co/images/Haugesund_NavyLime.jpg"
  	}
