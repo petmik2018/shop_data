@@ -1,0 +1,16 @@
+{
+	{
+ 		"id": 0,
+ 		"name": "Комбинезон Red Zeroes",
+ 		"style": "10_88_325",
+ 		"price": 2000,
+ 		"image_link": "https://fastpic.co/images/10_88_325_2.jpg"
+	},
+	{
+ 		"id": 1,
+ 		"name": "Куртка Red Zeroes",
+ 		"style": "111502_440",
+ 		"price": 1200,
+ 		"image_link": "https://fastpic.co/images/111502_440.jpg"
+	},
+}
