@@ -1,7 +1,4 @@
-{
-	"amount": 3200,
-	"countGoods": 2,
-	"content": [
+[
 	{
  		"id": 0,
  		"name": "Комбинезон Red Zeroes",
@@ -18,5 +15,4 @@
  		"image_link": "https://fastpic.co/images/111502_440.jpg",
  		"quantity": 1
 	}
-	]
-}
+]
